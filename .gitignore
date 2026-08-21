@@ -1,0 +1,10 @@
+.DS_Store
+*.log
+*.bin
+*.elf
+*.map
+.venv/
+__pycache__/
+.pytest_cache/
+.idea/
+.vscode/
